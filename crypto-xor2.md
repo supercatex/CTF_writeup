@@ -1,6 +1,6 @@
 ## crypto-xor2
 
-```
+```python
 with open("cipher", "rb") as f:
     cipher = f.read()
 

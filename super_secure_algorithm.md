@@ -1,6 +1,6 @@
 ## super_secure_algorithm
 
-```
+```python
 with open("output.txt", "rb") as f:
     enc = f.read()
 

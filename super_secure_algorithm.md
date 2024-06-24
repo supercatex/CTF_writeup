@@ -1,5 +1,6 @@
 ## super_secure_algorithm
 
+```
 with open("output.txt", "rb") as f:
     enc = f.read()
 
@@ -12,3 +13,4 @@ def decrypt(enc):
                 break
 
 decrypt(enc)
+```

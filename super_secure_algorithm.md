@@ -1,4 +1,5 @@
 ## super_secure_algorithm
+#### MOCSCTF 2023 Training
 
 ```python
 with open("output.txt", "rb") as f:

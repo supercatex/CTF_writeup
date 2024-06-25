@@ -28,4 +28,9 @@ image = cv2.cvtColor(cv2.imread("qrcode.jpg"), cv2.COLOR_BGR2RGB)
 
 decoded_text = qreader.detect_and_decode(image=image)
 print(decoded_text)
+
+# Zero Width Characters
+# https://mayadevbe.me/posts/projects/zw_steg/
+# https://330k.github.io/misc_tools/unicode_steganography.html
+
 ```
